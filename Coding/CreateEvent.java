@@ -1,5 +1,5 @@
 package com.walmartlabs.services.events;
-
+ 
 import com.google.common.base.Preconditions;
 import com.walmart.commons.utils.CollectionUtils;
 import com.walmart.services.common.model.OfferId;
