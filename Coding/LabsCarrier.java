@@ -2,7 +2,7 @@ package com.walmartlabs.services.api.dcc.dto;
 
 
 import javax.xml.bind.annotation.XmlAccessType;
-asdfasd
+asadsfadsfadf
 import javax.xml.bind.annotation.XmlAccessorType;
 import javax.xml.bind.annotation.XmlAttribute;
 import javax.xml.bind.annotation.XmlRootElement;
